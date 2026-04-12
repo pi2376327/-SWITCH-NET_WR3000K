@@ -1,7 +1,7 @@
 config rtty
 #   option  interface   'Default'
     option  id          'Default'
-    option  description 'SWITCH_WR3000K'
+    option  description 'SWQ3000K'
     option  host        'rtty.switch-net.com'
     option  port        '5912'                              
     option  token       'switch-net.com'    
