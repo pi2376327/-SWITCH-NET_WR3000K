@@ -221,5 +221,6 @@ uci set wireless.wifi3.disabled='1'
 uci set wireless.wifi4.disabled='1'
 uci set wireless.radio1.disabled='1'
 uci set wireless.default_radio1.disabled='1'
+uci commit wireless
 wifi reload
 exit 0
